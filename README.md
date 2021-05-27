@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Darot5
-- 👀 I’m interested in Linux, Music, Space, Cars, Motorbikes and other technical stuff.
+- 👀 I’m interested in Linux, Music, Videogames, Space, Cars, Motorbikes and other technical stuff.
 - 🌱 I’m currently learning C# and improving on my knowledge in Java, C, Assembler, HTML, CSS, JS and Linux
 
 <!---
